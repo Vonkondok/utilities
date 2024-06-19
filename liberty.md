@@ -1,4 +1,6 @@
-### 
-#### https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt(v2rayN,setting, tab-2)
+#### (v2rayN,setting, tab-2)
+#### https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt 
 
-#### ||chatgpt.com(user pac setting)
+#### (user pac setting)
+#### ||chatgpt.com 
+
